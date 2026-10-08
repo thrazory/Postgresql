@@ -26,38 +26,37 @@ Structured by topic — from basic DDL to advanced query techniques.
 
 ## Structure
 
+```
 postgresql-studies/
 ├── 01_crud_ddl/
-│ └── crud_ddl.sql
+│   └── crud_ddl.sql
 ├── 02_constraints/
-│ └── constraints.sql
+│   └── constraints.sql
 ├── 03_dml/
-│ └── dml.sql
+│   └── dml.sql
 ├── 04_select_filtering/
-│ └── select_filtering.sql
+│   └── select_filtering.sql
 ├── 05_joins/
-│ └── joins.sql
+│   └── joins.sql
 ├── 06_aggregations/
-│ └── aggregations.sql
+│   └── aggregations.sql
 ├── 07_subqueries_ctes/
-│ └── subqueries_ctes.sql
+│   └── subqueries_ctes.sql
 ├── 08_window_functions/
-│ └── window_functions.sql
+│   └── window_functions.sql
 ├── 09_indexes_performance/
-│ └── indexes.sql
+│   └── indexes.sql
 ├── 10_views/
-│ └── views.sql
+│   └── views.sql
 ├── 11_procedures_functions/
-│ └── procedures_functions.sql
+│   └── procedures_functions.sql
 ├── 12_transactions/
-│ └── transactions.sql
+│   └── transactions.sql
 ├── 13_data_types/
-│ └── data_types.sql
+│   └── data_types.sql
 └── 14_schema_design/
-└── schema_design.sql
-
-
----
+    └── schema_design.sql
+```
 
 ## 01 · CRUD & DDL
 
@@ -357,4 +356,4 @@ Best practices for structuring relational databases.
 
 ## Author
 
-**Thiago Vieira** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/thrazory)
+**Thiago Vieira** · [LinkedIn](https://www.linkedin.com/in/thiagotsmv) · [GitHub](https://github.com/thrazory)
